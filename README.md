@@ -73,7 +73,7 @@ An end-to-end web application that predicts plant growth milestones based on use
 
 
 
-```md
+
 ### 📥 Example Request
 
 ```json
@@ -86,10 +86,10 @@ An end-to-end web application that predicts plant growth milestones based on use
   "Humidity": 60.0
 }
 
-
+```
 ## 📸 UI Preview
 
-![App UI](./UI.PNG)
+![App UI](UI.PNG)
 
 ## 📦 Built With
 - 🐍 **FastAPI** — Fast modern Python web framework
