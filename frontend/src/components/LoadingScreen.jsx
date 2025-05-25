@@ -1,6 +1,6 @@
 // src/components/LoadingScreen.jsx
 import React from 'react';
-import './LoadingScreen.css';
+import './styles/LoadingScreen.css';
 import { useNavigate } from 'react-router-dom';
 const LoadingScreen = () => {
   const navigate = useNavigate();

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import './PlantPredictor.css';
+import './styles/PlantPredictor.css';
 
 const PlantPredictor = () => {
   const [formData, setFormData] = useState({
